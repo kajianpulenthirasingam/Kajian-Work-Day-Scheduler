@@ -7,4 +7,4 @@ My first Work Day scheduler. From the starter code that was given to me, I had t
 The link to the project:https://kajianpulenthirasingam.github.io/Kajian-Work-Day-Scheduler/
 The link to the repository: https://github.com/kajianpulenthirasingam/Kajian-Work-Day-Scheduler
 
-![](Capture.PNG)
+![](Assets/Capture.PNG)
